@@ -1,4 +1,4 @@
 {
-    "version": "1.2.1",
-    "changelog": "Added custom tags and improved tags customization"
+    "version": "1.2.2",
+    "changelog": "You can now enable/disable automatic admin tags"
 }
