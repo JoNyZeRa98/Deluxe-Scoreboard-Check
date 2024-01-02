@@ -1,4 +1,4 @@
 {
-    "version": "1.2.2",
-    "changelog": "You can now enable/disable automatic admin tags"
+    "version": "1.2.3",
+    "changelog": "You can now choose to display player names in the scoreboard"
 }
